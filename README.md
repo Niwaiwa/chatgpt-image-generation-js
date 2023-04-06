@@ -1,2 +1,4 @@
-# chatgpt-clone-js
- A chatgpt clone practice.
+# chatgpt-image-generation-js
+ A chatgpt image generation practice.
+
+
